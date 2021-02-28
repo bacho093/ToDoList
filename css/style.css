@@ -103,7 +103,7 @@ a {
   }
   .todoList {
     background: #fff;
-    height: 50vh;
+    height: 70vh;
     overflow-y: auto;
     overflow-x: hidden;
   }
